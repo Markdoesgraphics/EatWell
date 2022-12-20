@@ -1,0 +1,203 @@
+/*Global styles*/
+
+body{
+	font-family: 'Montserrat', sans-serif;
+}
+
+h2{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 700;
+	color: #fff
+}
+
+h3{
+	font-family: 'Sacramento', cursive;
+	font-size: 2.5rem;
+}
+
+h4{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 1.2rem;
+	font-weight: 700;
+	padding-top: 3%;
+}
+
+/*Title section*/
+
+#title{
+	background-color: #0F0E0E;
+}
+
+h1{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 4rem;
+	font-weight: 900;
+	color: #EEEEEE;
+	padding-top: 25%;
+	padding-bottom: 5%;
+}
+
+.container-fluid{
+	padding: 2% 15%;
+	
+}
+
+.navbar-brand{
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 400;
+	font-size: 1.5rem;
+}
+
+.nav-link{
+	font-size: .8rem;
+	font-weight: 100;
+}
+
+
+.gtn-btn{
+	margin-right: 2%;
+}
+
+.gtn-img{
+	width: 85%;
+	transform: rotate(15deg);
+}
+
+
+/*menu section*/
+
+p{
+	font-size: .7rem;
+	color: #8F8F8F;
+
+}
+
+#menu{
+	text-align: center;
+	padding: 5% 10%;
+}
+
+.menu-row{
+	padding: 3%;
+}
+
+.card-img-top{
+	height: 350px;
+	object-fit: cover;
+	object-position: center;
+	
+}
+
+./*menu-item{
+	padding-top: 3%;
+}
+*/
+
+/*.img-thumb{
+	width: 380px;
+	height: 400px;
+	object-fit: cover;
+	object-position: center;
+
+}
+*/
+
+
+
+/*Amenities section*/
+
+
+#amenities{
+	background-color: #EEEEEE;
+}
+
+.amn-row{
+	text-align: center;
+}
+
+.amn-h3{
+	text-align: center;
+	padding-bottom: 5%;
+}
+
+.icon{
+	padding: 2%;
+}
+
+.icon-h4{
+	font-size: .8rem;
+}
+
+
+/*About us section*/
+
+.abt-us-container{
+	padding: 5% 15%;
+}
+
+.abt-img{
+	margin-left: 25%;
+}
+
+.abt-hd-p{
+	padding-top: %;
+}
+
+.abt-hd-h3{
+	padding-bottom: 5%;
+}
+
+.abt-p{
+	line-height: 2;
+	font-size: 1rem;
+}
+
+/*Gallery section*/
+
+#gallery{
+	padding: 5% 15%;
+	background-color: #0F0E0E;
+	text-align: center;
+}
+
+.gal-h2{
+	padding-bottom: 5%;
+}
+
+.gal-thumb{
+	width: 400px;
+	height: 400px;
+	object-fit: cover;
+	object-position: center;
+}
+
+
+/*contact section*/
+
+#contact{
+	background-color: #EEEEEE;
+}
+
+.contact-container{
+	padding: 5% 15%;
+}
+
+.form-control{
+	margin-bottom: 2%;
+}
+
+.ctn-icon{
+	margin: 2% 3% 2% 0;
+}
+
+.ctn-a{
+	text-decoration: none;
+}
+
+.ctn-text{
+	padding-top: 2%;
+}
+
+.ctn-h4{
+	line-height: 1.5;
+}
